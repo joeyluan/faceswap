@@ -37,7 +37,7 @@ import cv2
 import dlib
 import numpy
 import sys
-PREDICTOR_PATH = "/home/matt/dlib-18.16/shape_predictor_68_face_landmarks.dat"
+PREDICTOR_PATH = "D:/test/ai/faceswap/face_model/shape_predictor_68_face_landmarks.dat"
 SCALE_FACTOR = 1 
 FEATHER_AMOUNT = 11
 FACE_POINTS = list(range(17, 68))
